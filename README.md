@@ -13,7 +13,7 @@
 
 ### 6. Then, enter the desired playlist name the model will name the created playlist on your Spotify account in the next pop up. Press Enter.
 
-## 7. After that, enter the desired number of songs you want to be recommended to by the model. Press Enter.
+### 7. After that, enter the desired number of songs you want to be recommended to by the model. Press Enter.
 
 ### 8. Following that, enter your Spotify API Client Id and Client Secret in the next 2 pop ups respectively. Refer to https://developer.spotify.com/documentation/web-api/concepts/apps for how to obtain these. Press Enter after each one.
 
