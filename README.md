@@ -1,6 +1,6 @@
 ### dap_artificial_dj
 
-##### How to use:
+#### How to use:
 1. Please download the Spotify 600K dataset from https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?resource=download if you would like to run the model from scratch. (Data Extraction and Recommender System) If you only want the recommender system, obtian it from https://drive.google.com/file/d/1gl_TvnBU1Pb02-_J17qe_EoWwK4IBpbj/view?usp=sharing.
 
 2. Add the .csv files into the data/ folder. (artists.csv, tracks.csv)
