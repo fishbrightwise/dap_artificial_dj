@@ -2,3 +2,9 @@
 *.csv
 *.txt
 *.zip
+!tracks_with_genres_lang_emotion.csv
+!extracted_languages.csv
+!extracted_superset_genres.csv
+!train.txt
+!test.txt
+!val.txt
