@@ -5,7 +5,7 @@ The assumption for either path is that you have Anaconda and Jupyter Notebook in
 This is for users who want to try out our emotion to song recommender!
 There is no need to extract and engineer any of the data as the necessary files will be provided in the download folder.
 
-### How to use:
+#### How to use:
 1. Please download the Built Model from https://drive.google.com/file/d/1YfaT1fePQwKcm6zlofu9S9STbMeITake/view?usp=sharing. Extract the .zip file and place everything in the extracted folder into your kernel environment folder location.
 
 2. Run Notebook "1_input_generation.ipynb" and input the respective information when prompted. For information on how to obtain the necessary keys: https://github.com/fishbrightwise/dap_artificial_dj
