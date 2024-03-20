@@ -28,7 +28,7 @@ This is for users who want to modify and create their variants of this model fro
     - Spotify 600K dataset from https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?resource=download.
     - Emotion Detection dataset from https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp/data.
     - The Recommender Engineering/construction notebooks from https://drive.google.com/file/d/1DpacejAJOdlkdyyo1u7Fs9fMGWNE0fYO/view?usp=sharing.
-    Also, obtain the necessary keys from Spotify from the links below.
+    - Also, obtain the necessary keys from Spotify from the links below.
 
 2. Add the .csv files into the "data" folder and the notebooks into the main folder.
 
